@@ -1,14 +1,19 @@
-- Hi, I’m @muffynx
-- OPEN TTD
-
+# 👋 Hi, I’m @muffynx  
 
 
 muffynx is a ✨
 
 
-git init  # Initialize a new Git repository
-git add .  # Stage all files
-git commit -m "Initial commit"  # Commit the changes
-git remote add origin https://github.com/muffynx/firebase-auth.git  # Add remote repository
-git branch -M main  # Rename branch to 'main' (if needed)
-git push -u origin main  # Push the code to GitHub
+🔐 **Network Security Engineer | Cyber Enthusiast | Cloud Security** 🌐  
+
+🚀 Passionate about securing networks, ethical hacking, and building secure systems. I love exploring vulnerabilities, implementing security measures, and sharing knowledge on cybersecurity!  
+
+## 🛠️ Skills & Tools  
+- 🏰 **Network Security** – Firewalls, IDS/IPS, VPNs  
+- 🕵️ **Ethical Hacking** – Penetration Testing, Red Teaming  
+- 🔑 **Access Control** – Zero Trust, IAM  
+- 📡 **Packet Analysis** – Wireshark, Snort  
+- ☁️ **Cloud Security** – AWS, Azure, GCP  
+
+
+💡 _"Stay Secure, Stay Safe!"_ 🚀  
